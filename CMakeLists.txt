@@ -8,3 +8,5 @@ add_executable("DifferentWaysToAddParentheses" "241. Different ways to add paran
 add_executable("RemoveNodesFromLinkedList" "2487. Remove Nodes From Linked List/main.c")
 
 add_executable("MergeTwoSortedLists" "21. Merge Two Sorted Lists/main.c")
+
+add_executable("PalindromeLinkedList" "234. Palindrome Linked List/main.c")
