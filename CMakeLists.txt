@@ -10,3 +10,5 @@ add_executable("RemoveNodesFromLinkedList" "2487. Remove Nodes From Linked List/
 add_executable("MergeTwoSortedLists" "21. Merge Two Sorted Lists/main.c")
 
 add_executable("PalindromeLinkedList" "234. Palindrome Linked List/main.c")
+
+add_executable("ReorderList" "143. Reorder List/main.c")
