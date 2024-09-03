@@ -14,3 +14,5 @@ add_executable("PalindromeLinkedList" "234. Palindrome Linked List/main.c")
 add_executable("ReorderList" "143. Reorder List/main.c")
 
 add_executable("SwapNodesInPairs" "24. Swap Nodes in Pairs/main.c")
+
+add_executable("DecodeString" "394. Decode String/main.c")
