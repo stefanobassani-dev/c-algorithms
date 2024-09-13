@@ -16,3 +16,7 @@ add_executable("ReorderList" "143. Reorder List/main.c")
 add_executable("SwapNodesInPairs" "24. Swap Nodes in Pairs/main.c")
 
 add_executable("DecodeString" "394. Decode String/main.c")
+
+add_executable("PredictTheWinner" "486. Predict the Winner/main.c")
+
+add_executable("WordSearch" "79. Word Search/main.c")
