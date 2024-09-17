@@ -22,3 +22,5 @@ add_executable("PredictTheWinner" "486. Predict the Winner/main.c")
 add_executable("WordSearch" "79. Word Search/main.c")
 
 add_executable("MaximumSubarray" "53. Maximum Subarray/main.c")
+
+add_executable("HouseRobber" "198. House Robber/main.c")
